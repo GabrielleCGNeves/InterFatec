@@ -29,9 +29,9 @@ pontos_lista.reverse()
 if pontos_lista[0] != pontos_lista[1]:
     valores = list(jogadores.values())
     indice_ganhador = valores.index(max(valores))
-    print(f'{list(jogadores.keys())[indice_ganhador]} GANHOU\n')
+    print(f'{list(jogadores.keys())[indice_ganhador]} GANHOU')
 else:
-    print('EMPATE\n')
+    print('EMPATE')
 
 
 
