@@ -10,7 +10,7 @@
         <p><a href='https://github.com/FelipeValeriano21'>Felipe Valeriano dos Reis</a></p>
     </strong>
     <strong>
-        <p><a href='https://github.com/GabrielleCGNeves'>Gabrielle Carvalho Gonçalves das Neves</a></p>
+        <p><a href='https://github.com/GabrielleCGNeves'>Gabrielle C G Neves</a></p>
     </strong>
 </div>
 
